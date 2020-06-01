@@ -1,0 +1,6 @@
+framework module ZGPodsWorks {
+  umbrella header "ZGPodsWorks-umbrella.h"
+
+  export *
+  module * { export * }
+}

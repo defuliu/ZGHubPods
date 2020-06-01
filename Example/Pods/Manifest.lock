@@ -1,0 +1,16 @@
+PODS:
+  - ZGPodsWorks (0.1.0)
+
+DEPENDENCIES:
+  - ZGPodsWorks (from `../`)
+
+EXTERNAL SOURCES:
+  ZGPodsWorks:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZGPodsWorks: 49760778df22adcf383245fcee2c4428b12441f0
+
+PODFILE CHECKSUM: a3738873556b17e1daa573c7ca7bd5ae24cb3eca
+
+COCOAPODS: 1.9.3

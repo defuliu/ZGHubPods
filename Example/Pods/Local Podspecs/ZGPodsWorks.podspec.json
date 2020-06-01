@@ -1,0 +1,22 @@
+{
+  "name": "ZGPodsWorks",
+  "version": "0.1.0",
+  "summary": "A short description of ZGPodsWorks.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/defuliu/ZGPodsWorks",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "defuliu": "liudefu@china.zhaogang.com"
+  },
+  "source": {
+    "git": "https://github.com/defuliu/ZGPodsWorks.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZGPodsWorks/Classes/**/*"
+}
