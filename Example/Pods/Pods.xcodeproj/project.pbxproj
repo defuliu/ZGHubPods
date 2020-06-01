@@ -13,27 +13,6 @@
 		6973C4482E358C392411B3FE19D3B674 /* Pods-ZGPodsWorks_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F7077235FFF999F0F39C2000051FDA5A /* Pods-ZGPodsWorks_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6E9CC1244280A6C3C1D994199F100DFF /* ZGPodsWorks-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 69B99273CF95B91F93F828BA1AD73F77 /* ZGPodsWorks-dummy.m */; };
 		817149ABBEFCAF5E03BCC91DDB4EE672 /* Pods-ZGPodsWorks_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C88BDF6758697E9B8BA7743747D93836 /* Pods-ZGPodsWorks_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		946962EB2484ECAD00AFA725 /* UIImage+TZImage.h in Headers */ = {isa = PBXBuildFile; fileRef = 946962D12484ECAD00AFA725 /* UIImage+TZImage.h */; };
-		946962EC2484ECAD00AFA725 /* UIView+TZLayout.h in Headers */ = {isa = PBXBuildFile; fileRef = 946962D22484ECAD00AFA725 /* UIView+TZLayout.h */; };
-		946962ED2484ECAD00AFA725 /* CALayer+PauseAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 946962D32484ECAD00AFA725 /* CALayer+PauseAnimation.m */; };
-		946962EE2484ECAD00AFA725 /* UIImage+TZImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 946962D42484ECAD00AFA725 /* UIImage+TZImage.m */; };
-		946962EF2484ECAD00AFA725 /* UIView+TZLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 946962D52484ECAD00AFA725 /* UIView+TZLayout.m */; };
-		946962F02484ECAD00AFA725 /* CALayer+PauseAnimation.h in Headers */ = {isa = PBXBuildFile; fileRef = 946962D62484ECAD00AFA725 /* CALayer+PauseAnimation.h */; };
-		946962F12484ECAD00AFA725 /* UIImage+Additions.h in Headers */ = {isa = PBXBuildFile; fileRef = 946962D82484ECAD00AFA725 /* UIImage+Additions.h */; };
-		946962F22484ECAD00AFA725 /* UIView+ViewCateGory.h in Headers */ = {isa = PBXBuildFile; fileRef = 946962D92484ECAD00AFA725 /* UIView+ViewCateGory.h */; };
-		946962F32484ECAD00AFA725 /* UIView+Additions.m in Sources */ = {isa = PBXBuildFile; fileRef = 946962DA2484ECAD00AFA725 /* UIView+Additions.m */; };
-		946962F42484ECAD00AFA725 /* UIView+Custom.h in Headers */ = {isa = PBXBuildFile; fileRef = 946962DB2484ECAD00AFA725 /* UIView+Custom.h */; };
-		946962F52484ECAD00AFA725 /* NSString+Secret.h in Headers */ = {isa = PBXBuildFile; fileRef = 946962DC2484ECAD00AFA725 /* NSString+Secret.h */; };
-		946962F62484ECAD00AFA725 /* NSMutableAttributedString+attributed.h in Headers */ = {isa = PBXBuildFile; fileRef = 946962DD2484ECAD00AFA725 /* NSMutableAttributedString+attributed.h */; };
-		946962F72484ECAD00AFA725 /* UIAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 946962DE2484ECAD00AFA725 /* UIAdditions.m */; };
-		946962F82484ECAD00AFA725 /* NSString+Secret.m in Sources */ = {isa = PBXBuildFile; fileRef = 946962DF2484ECAD00AFA725 /* NSString+Secret.m */; };
-		946962F92484ECAD00AFA725 /* UIView+Custom.m in Sources */ = {isa = PBXBuildFile; fileRef = 946962E02484ECAD00AFA725 /* UIView+Custom.m */; };
-		946962FA2484ECAD00AFA725 /* UIView+Additions.h in Headers */ = {isa = PBXBuildFile; fileRef = 946962E12484ECAD00AFA725 /* UIView+Additions.h */; };
-		946962FB2484ECAD00AFA725 /* UIView+ViewCateGory.m in Sources */ = {isa = PBXBuildFile; fileRef = 946962E22484ECAD00AFA725 /* UIView+ViewCateGory.m */; };
-		946962FC2484ECAD00AFA725 /* UIImage+Additions.m in Sources */ = {isa = PBXBuildFile; fileRef = 946962E32484ECAD00AFA725 /* UIImage+Additions.m */; };
-		946962FD2484ECAD00AFA725 /* UIAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 946962E42484ECAD00AFA725 /* UIAdditions.h */; };
-		946962FE2484ECAD00AFA725 /* NSMutableAttributedString+attributed.m in Sources */ = {isa = PBXBuildFile; fileRef = 946962E52484ECAD00AFA725 /* NSMutableAttributedString+attributed.m */; };
-		946962FF2484ECAD00AFA725 /* COMMON_DEF.h in Headers */ = {isa = PBXBuildFile; fileRef = 946962E72484ECAD00AFA725 /* COMMON_DEF.h */; };
 		946963002484ECAD00AFA725 /* ZGEntityBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 946962E92484ECAD00AFA725 /* ZGEntityBase.m */; };
 		946963012484ECAD00AFA725 /* ZGEntityBase.h in Headers */ = {isa = PBXBuildFile; fileRef = 946962EA2484ECAD00AFA725 /* ZGEntityBase.h */; };
 		B0E25E2D52F12A95AE982C30A88D3756 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
@@ -75,27 +54,6 @@
 		7617078DE4B24051E75772CD92957DD8 /* Pods-ZGPodsWorks_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZGPodsWorks_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		793EA462212F154E595C7B890B34B5A5 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		7A59CCE47C38520E7F9EA1B6A12AABB1 /* ZGPodsWorks-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ZGPodsWorks-umbrella.h"; sourceTree = "<group>"; };
-		946962D12484ECAD00AFA725 /* UIImage+TZImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+TZImage.h"; sourceTree = "<group>"; };
-		946962D22484ECAD00AFA725 /* UIView+TZLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+TZLayout.h"; sourceTree = "<group>"; };
-		946962D32484ECAD00AFA725 /* CALayer+PauseAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "CALayer+PauseAnimation.m"; sourceTree = "<group>"; };
-		946962D42484ECAD00AFA725 /* UIImage+TZImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+TZImage.m"; sourceTree = "<group>"; };
-		946962D52484ECAD00AFA725 /* UIView+TZLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+TZLayout.m"; sourceTree = "<group>"; };
-		946962D62484ECAD00AFA725 /* CALayer+PauseAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CALayer+PauseAnimation.h"; sourceTree = "<group>"; };
-		946962D82484ECAD00AFA725 /* UIImage+Additions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Additions.h"; sourceTree = "<group>"; };
-		946962D92484ECAD00AFA725 /* UIView+ViewCateGory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+ViewCateGory.h"; sourceTree = "<group>"; };
-		946962DA2484ECAD00AFA725 /* UIView+Additions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Additions.m"; sourceTree = "<group>"; };
-		946962DB2484ECAD00AFA725 /* UIView+Custom.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Custom.h"; sourceTree = "<group>"; };
-		946962DC2484ECAD00AFA725 /* NSString+Secret.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Secret.h"; sourceTree = "<group>"; };
-		946962DD2484ECAD00AFA725 /* NSMutableAttributedString+attributed.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSMutableAttributedString+attributed.h"; sourceTree = "<group>"; };
-		946962DE2484ECAD00AFA725 /* UIAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIAdditions.m; sourceTree = "<group>"; };
-		946962DF2484ECAD00AFA725 /* NSString+Secret.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Secret.m"; sourceTree = "<group>"; };
-		946962E02484ECAD00AFA725 /* UIView+Custom.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Custom.m"; sourceTree = "<group>"; };
-		946962E12484ECAD00AFA725 /* UIView+Additions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Additions.h"; sourceTree = "<group>"; };
-		946962E22484ECAD00AFA725 /* UIView+ViewCateGory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+ViewCateGory.m"; sourceTree = "<group>"; };
-		946962E32484ECAD00AFA725 /* UIImage+Additions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Additions.m"; sourceTree = "<group>"; };
-		946962E42484ECAD00AFA725 /* UIAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIAdditions.h; sourceTree = "<group>"; };
-		946962E52484ECAD00AFA725 /* NSMutableAttributedString+attributed.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSMutableAttributedString+attributed.m"; sourceTree = "<group>"; };
-		946962E72484ECAD00AFA725 /* COMMON_DEF.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = COMMON_DEF.h; sourceTree = "<group>"; };
 		946962E92484ECAD00AFA725 /* ZGEntityBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZGEntityBase.m; sourceTree = "<group>"; };
 		946962EA2484ECAD00AFA725 /* ZGEntityBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZGEntityBase.h; sourceTree = "<group>"; };
 		96441B79CC282FEB7B8C027BE61123A6 /* ZGPodsWorks-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ZGPodsWorks-prefix.pch"; sourceTree = "<group>"; };
@@ -185,51 +143,6 @@
 			path = "Target Support Files/Pods-ZGPodsWorks_Tests";
 			sourceTree = "<group>";
 		};
-		946962D02484ECAD00AFA725 /* Category */ = {
-			isa = PBXGroup;
-			children = (
-				946962D12484ECAD00AFA725 /* UIImage+TZImage.h */,
-				946962D22484ECAD00AFA725 /* UIView+TZLayout.h */,
-				946962D32484ECAD00AFA725 /* CALayer+PauseAnimation.m */,
-				946962D42484ECAD00AFA725 /* UIImage+TZImage.m */,
-				946962D52484ECAD00AFA725 /* UIView+TZLayout.m */,
-				946962D62484ECAD00AFA725 /* CALayer+PauseAnimation.h */,
-			);
-			name = Category;
-			path = ZGPodsWorks/Classes/Category;
-			sourceTree = "<group>";
-		};
-		946962D72484ECAD00AFA725 /* Additions */ = {
-			isa = PBXGroup;
-			children = (
-				946962D82484ECAD00AFA725 /* UIImage+Additions.h */,
-				946962D92484ECAD00AFA725 /* UIView+ViewCateGory.h */,
-				946962DA2484ECAD00AFA725 /* UIView+Additions.m */,
-				946962DB2484ECAD00AFA725 /* UIView+Custom.h */,
-				946962DC2484ECAD00AFA725 /* NSString+Secret.h */,
-				946962DD2484ECAD00AFA725 /* NSMutableAttributedString+attributed.h */,
-				946962DE2484ECAD00AFA725 /* UIAdditions.m */,
-				946962DF2484ECAD00AFA725 /* NSString+Secret.m */,
-				946962E02484ECAD00AFA725 /* UIView+Custom.m */,
-				946962E12484ECAD00AFA725 /* UIView+Additions.h */,
-				946962E22484ECAD00AFA725 /* UIView+ViewCateGory.m */,
-				946962E32484ECAD00AFA725 /* UIImage+Additions.m */,
-				946962E42484ECAD00AFA725 /* UIAdditions.h */,
-				946962E52484ECAD00AFA725 /* NSMutableAttributedString+attributed.m */,
-			);
-			name = Additions;
-			path = ZGPodsWorks/Classes/Additions;
-			sourceTree = "<group>";
-		};
-		946962E62484ECAD00AFA725 /* Base */ = {
-			isa = PBXGroup;
-			children = (
-				946962E72484ECAD00AFA725 /* COMMON_DEF.h */,
-			);
-			name = Base;
-			path = ZGPodsWorks/Classes/Base;
-			sourceTree = "<group>";
-		};
 		946962E82484ECAD00AFA725 /* Model */ = {
 			isa = PBXGroup;
 			children = (
@@ -314,9 +227,6 @@
 		EAE4A45EC12DBAD9B17428BFCFDEC57A /* ZGPodsWorks */ = {
 			isa = PBXGroup;
 			children = (
-				946962D72484ECAD00AFA725 /* Additions */,
-				946962E62484ECAD00AFA725 /* Base */,
-				946962D02484ECAD00AFA725 /* Category */,
 				946962E82484ECAD00AFA725 /* Model */,
 				B298DCF00D9040AD3BFFA15D7349C1D5 /* Pod */,
 				41A87675CA945877CB65C5CF1F497966 /* Support Files */,
@@ -340,19 +250,8 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				946962F52484ECAD00AFA725 /* NSString+Secret.h in Headers */,
-				946962FF2484ECAD00AFA725 /* COMMON_DEF.h in Headers */,
 				946963012484ECAD00AFA725 /* ZGEntityBase.h in Headers */,
-				946962F02484ECAD00AFA725 /* CALayer+PauseAnimation.h in Headers */,
-				946962EC2484ECAD00AFA725 /* UIView+TZLayout.h in Headers */,
-				946962FA2484ECAD00AFA725 /* UIView+Additions.h in Headers */,
-				946962F22484ECAD00AFA725 /* UIView+ViewCateGory.h in Headers */,
-				946962F42484ECAD00AFA725 /* UIView+Custom.h in Headers */,
-				946962FD2484ECAD00AFA725 /* UIAdditions.h in Headers */,
-				946962EB2484ECAD00AFA725 /* UIImage+TZImage.h in Headers */,
-				946962F12484ECAD00AFA725 /* UIImage+Additions.h in Headers */,
 				6973C4482E358C392411B3FE19D3B674 /* Pods-ZGPodsWorks_Example-umbrella.h in Headers */,
-				946962F62484ECAD00AFA725 /* NSMutableAttributedString+attributed.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -489,18 +388,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				946962F82484ECAD00AFA725 /* NSString+Secret.m in Sources */,
-				946962F92484ECAD00AFA725 /* UIView+Custom.m in Sources */,
 				946963002484ECAD00AFA725 /* ZGEntityBase.m in Sources */,
-				946962EF2484ECAD00AFA725 /* UIView+TZLayout.m in Sources */,
-				946962FC2484ECAD00AFA725 /* UIImage+Additions.m in Sources */,
-				946962F72484ECAD00AFA725 /* UIAdditions.m in Sources */,
-				946962EE2484ECAD00AFA725 /* UIImage+TZImage.m in Sources */,
-				946962FB2484ECAD00AFA725 /* UIView+ViewCateGory.m in Sources */,
 				BDFD61AF3D5AB3B30604CC7414B4508E /* Pods-ZGPodsWorks_Example-dummy.m in Sources */,
-				946962F32484ECAD00AFA725 /* UIView+Additions.m in Sources */,
-				946962ED2484ECAD00AFA725 /* CALayer+PauseAnimation.m in Sources */,
-				946962FE2484ECAD00AFA725 /* NSMutableAttributedString+attributed.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -17,9 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description  = <<-DESC
-                    LZTool 是一个用于保存一些常用工具类的工具
-                  DESC
+  s.description  = 'ZGPodsWorks 封装了一些工具类,基础类,宏'
 
   s.homepage         = 'https://github.com/defuliu/ZGPodsWorks'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
@@ -28,23 +26,11 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/defuliu/ZGPodsWorks.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
 
   #s.source_files = 'ZGPodsWorks/Classes/**/*'
-  
-  s.subspec 'Additions' do |additions|
-  additions.source_files = 'ZGFrameWork/Classes/Additions/**/*.{swift,h,m,c}'
-  end
-  
-  s.subspec 'Base' do |base|
-         base.source_files = 'ZGFrameWork/Classes/Base/**/*.{swift,h,m,c}'
-  end
-  
-  s.subspec 'Category' do |category|
-   category.source_files = 'ZGFrameWork/Classes/Category/**/*.{swift,h,m,c}'
-  end
   s.subspec 'Model' do |model|
-   model.source_files = 'ZGFrameWork/Classes/Model/**/*.{swift,h,m,c}'
+   model.source_files = 'ZGFrameWork/Classes/Model/**/*'
   end
   
   # s.resource_bundles = {
