@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '9.0'
 
-  #s.source_files = 'ZGPodsWorks/Classes/**/*'
+  s.source_files = 'ZGPodsWorks/Classes/**/*'
   s.subspec 'Model' do |model|
    model.source_files = 'ZGFrameWork/Classes/Model/**/*'
   end
