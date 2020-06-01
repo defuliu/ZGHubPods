@@ -17,7 +17,9 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = 'ZGPodsWorks 封装了一些工具类,基础类,宏'
+  s.description  = <<-DESC
+                    LZTool 是一个用于保存一些常用工具类的工具
+                  DESC
 
   s.homepage         = 'https://github.com/defuliu/ZGPodsWorks'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
